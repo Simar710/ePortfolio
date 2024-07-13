@@ -14,8 +14,8 @@ import javax.swing.border.EmptyBorder;
  */
 public class gainFile {
 	
-	static JTextArea gainBox = new JTextArea(5,10);
-	static JTextField gainField = new JTextField(10);
+	public static JTextArea gainBox = new JTextArea(5,10);
+	public static JTextField gainField = new JTextField(10);
 	/**
 	 * Constructor conating the functionality for gain page
 	 * @return JPanel; the sell gain made 
