@@ -1,10 +1,5 @@
-NAME: SIMARDEEP SINGH
-STUDENT ID: 1129156
-
-CIS*2430 ASSIGNMENT 3
-
 HOW TO BUILD:
-    1. Be in the directory ssingh75_a3.
+    1. Be in the directory, where ePortfolio is cloned
     2. Enter the command to compile: javac ePortfolio/*.java
     3. Run the program using : java ePortfolio.GUI
 
@@ -72,18 +67,3 @@ EDGE CASES:
     2. Quantity = 0 is handled so that bookvalue doesn't become infinity.
     3. Perform search using options from test plan #9.
     4. When all the quantity is sold.
-
-IMPROVEMENTS THAT CAN BE MADE:
-	I can improve the design of GUI and let it adjust according to the size change of Frame.
-    The effiency of the code can be improved.
-    I could have made a lot of things easier.
-    But due to shortage of time, I had to go with a simple way.
-
-
-LIMITATIONS:
-    The design of GUI is not the most efficient. The design gets distorted if we tries to change the size of Frame. Therefore, I had to set it to non-resizable.
-    It does not work in the fastest way possible. If had more time I could have made GUI look more attractive and make it work faster.
-    Also, Code is not the most efficient. It can be simplified and made more efficient by designing more effective algorithms.
-    
-PROBLEM STATEMENT:
-	
