@@ -24,9 +24,24 @@ public class updateFile {
     Investment investObj;
     JTextArea messageBox = new JTextArea(10,20);    
     int elemenNow = 0;
-    
     JButton next = new JButton("Next");
     JButton prev = new JButton("Prev");
+    
+    public JTextField getSymbolField() {
+        return symbolField;
+    }
+    
+    public JTextField getNameField() {
+        return nameField;
+    }
+
+    public JButton getNext() {
+        return next;
+    }
+    
+    public JButton getPrev() {
+        return prev;
+    }
 	public JPanel linkFiles(){
 		
 		//Construction of Update Page
